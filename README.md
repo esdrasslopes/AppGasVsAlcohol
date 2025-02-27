@@ -21,8 +21,7 @@ O **FuelDecision** é um aplicativo simples desenvolvido com **Expo** e **React 
 Antes de rodar o projeto, é necessário ter o **Node.js** e o **Expo CLI** instalados. Caso não tenha, você pode instalar seguindo as instruções abaixo:
 
 1. Instalar o [Node.js](https://nodejs.org/).
-2. Instalar o **Expo CLI**: (```bash
-npm install -g expo-cli)
+2. Instalar o **Expo CLI**: npm install -g expo-cli
 3. Instale as dependências com npm install
 4. Após isso use o comando npx expo start para executar o projeto.
 
